@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    color: whitesmoke;
+}
+
+.login{
+    min-height:100vh ;
+    /* background-color: lightgreen; */
+    /* background-image: url("https://png.pngtree.com/background/20230616/original/pngtree-faceted-abstract-background-in-3d-with-shimmering-iridescent-metallic-texture-of-picture-image_3653595.jpg"); */
+    
+    /* padding: 20px; */
+  
+}
+
+.oi{
+    background-color: none;
+}
+
+.gradient-custom-3 {
+    /* fallback for old browsers */
+    background-image: url("https://t4.ftcdn.net/jpg/05/72/54/67/360_F_572546714_2mn39TUv2f5Lmg7JRT9yvSkuTJERGyg8.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+   
+    /* background: #000000; */
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    /* background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5)); */
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    /* background: linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5)) */
+    }
+    .gradient-custom-4 {
+    /* fallback for old browsers */
+    /* background: #000000; */
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    /* background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 1), rgba(143, 211, 244, 1)); */
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    /* background: linear-gradient(to right, rgba(132, 250, 176, 1), rgba(143, 211, 244, 1)) */
+    }
